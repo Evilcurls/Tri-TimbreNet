@@ -24,8 +24,8 @@
 
 1. 克隆项目：
 ```bash
-git clone [项目地址]
-cd [
+git clone https://github.com/Evilcurls/Tri-TimbreNet.git
+cd Tri-TimbreNet
 ```
 
 2. 安装依赖：
